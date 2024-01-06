@@ -31,4 +31,4 @@ AND TRY TO LOAD SOME BOTS (USE FRESH LIST) IF YOU ARE SURE THAT BOTS DONT JOIN F
 
 If this still dont dont work, make you sure you dont have edited some port in the source of mirai or have wronged some steps of mirai installation like mysql or other.
 
-- RootSec
+- rli
