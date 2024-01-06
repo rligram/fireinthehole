@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://r00ts3c.github.io/"><img src="https://i.imgur.com/5ty5YPN.gif" alt="ROOTSEC ARCHIVE" width="200"></a>
+  <a href="https://okrli.online"><img src="https://cdn.discordapp.com/avatars/766687885772455996/8c8a2d0ddbf386706f0a27e14b087233.webp?size=1024&width=0&height=204" alt="RLIGRAM'S ARCHIVE" width="200"></a>
   <br>
   RootSec Archive
   <br>
 </h1>
 
-<h4 align="center">DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
+<h4 align="center">DDOS Archive by Rli (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
 
 ## FILES
 
@@ -28,21 +28,16 @@
 
 ## USING
 
-<strong>BEFORE USE READ OUR TERMS AT <a href="https://github.com/R00tS3c/DDOS-RootSec/blob/master/ToS.md">ToS</a>.</strong>
+<strong>BEFORE USE READ OUR TERMS AT <a href="https://github.com/rligram/fireinthehole/blob/master/ToS.md">ToS</a>.</strong>
 ```
 ALL TUTORIALS THAT U WILL NEED U CAN FIND IN HOW TO USE FOLDER OR FOLDER OF THAT SHIT THAT U WANT TO USE!
 ```
 
 ## CREDITS
-[@R00tS3c](https://github.com/R00tS3c)
+[@rligram](https://github.com/rligram)
 <br>
-[@Nexus](https://github.com/Nexuzzzz)
+[@Invalid's Cat](https://discord.com/users/783678609516134430)
 
 ## License
 
 GPL-3.0
-
-----
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec?ref=badge_large)
