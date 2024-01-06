@@ -125,5 +125,5 @@ screen ./scanListen
 To load your telnet lists use command
 cat list.txt | ./loader 
 
-RootSec
-https://github.com/R00tS3c/DDOS-RootSec/
+rli
+https://github.com/rligram/fireinthehole/
