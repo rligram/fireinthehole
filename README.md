@@ -2,7 +2,7 @@
   <br>
   <a href="https://okrli.online"><img src="https://cdn.discordapp.com/avatars/766687885772455996/8c8a2d0ddbf386706f0a27e14b087233.webp?size=1024&width=0&height=204" alt="RLIGRAM'S ARCHIVE" width="200"></a>
   <br>
-  RootSec Archive
+  Custom's Rli's and Invalid's Cat Archive
   <br>
 </h1>
 
